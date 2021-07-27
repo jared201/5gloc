@@ -1,4 +1,4 @@
-From here a new coin will be created!
+Renaming this repo to 5Gloc!
 
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
